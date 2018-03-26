@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="gao-analysis:war">
+    <output-path>$PROJECT_DIR$/gao-analysis/target</output-path>
+    <root id="archive" name="gao-analysis-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="gao-analysis:war exploded" />
+    </root>
+  </artifact>
+</component>
